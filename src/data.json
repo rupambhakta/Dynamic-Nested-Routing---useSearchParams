@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "categoryId": "laptop",
+    "name": "Lenovo ThinkPad",
+    "desc": "This is a laptop",
+    "price": 1000,
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "categoryId": "laptop",
+    "name": "Dell XPS 13",
+    "desc": "This is a laptop",
+    "price": 1000,
+    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?q=80&w=1232&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "categoryId": "camera",
+    "name": "Canon EOS R5",
+    "desc": "This is a camera",
+    "price": 500,
+    "image": "https://plus.unsplash.com/premium_photo-1674389991678-0836ca77c7f7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "categoryId": "camera",
+    "name": "Nikon Z6 II",
+    "desc": "This is a camera",
+    "price": 500,
+    "image": "https://images.unsplash.com/photo-1516724562728-afc824a36e84?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 5,
+    "categoryId": "phone",
+    "name": "iPhone 13",
+    "desc": "This is a phone",
+    "price": 800,
+    "image": "https://plus.unsplash.com/premium_photo-1680985551009-05107cd2752c?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 6,
+    "categoryId": "phone",
+    "name": "Samsung Galaxy S21",
+    "desc": "This is a phone",
+    "price": 800,
+    "image": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 6,
+    "categoryId": "phone",
+    "name": "Redmi Note 10",
+    "desc": "This is a phone",
+    "price": 800,
+    "image": "https://images.unsplash.com/photo-1706300896491-ce7d624fb9ce?q=80&w=680&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 6,
+    "categoryId": "phone",
+    "name": "Sony",
+    "desc": "This is a phone",
+    "price": 800,
+    "image": "https://images.unsplash.com/photo-1695435478239-0828b8bfc8c1?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 6,
+    "categoryId": "phone",
+    "name": "Asus",
+    "desc": "This is a phone",
+    "price": 800,
+    "image": "https://images.unsplash.com/photo-1732020884003-a3bca45df0a5?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 6,
+    "categoryId": "phone",
+    "name": "Motorola Edge",
+    "desc": "This is a phone",
+    "price": 800,
+    "image": "https://images.unsplash.com/photo-1732020883998-24e6c14fd00d?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
